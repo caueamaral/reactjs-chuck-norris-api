@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5443e7623dfd96ed5eb60b1b4e04976",
+    "revision": "159df5b72b447d0f740bcec9189a97f5",
     "url": "/reactjs-chuck-norris-api/index.html"
   },
   {
