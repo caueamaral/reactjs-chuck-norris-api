@@ -2,9 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # ReactJS - Chuck Norris API
 
-Simple ReactJS API using [Chuck Norris Jokes API](https://api.chucknorris.io).
-
-## Tecnologies
-- Components
-- useState
-- useEffect
+Simple ReactJS API using the [Chuck Norris Jokes API](https://api.chucknorris.io) and Bootstrap.
