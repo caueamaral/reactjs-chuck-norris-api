@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/caueamaral/reactjs-chuck-norris-api/static/css/main.d11f75f3.chunk.css",
+    "main.js": "/caueamaral/reactjs-chuck-norris-api/static/js/main.9adc2bfa.chunk.js",
+    "main.js.map": "/caueamaral/reactjs-chuck-norris-api/static/js/main.9adc2bfa.chunk.js.map",
+    "runtime-main.js": "/caueamaral/reactjs-chuck-norris-api/static/js/runtime-main.ac42828d.js",
+    "runtime-main.js.map": "/caueamaral/reactjs-chuck-norris-api/static/js/runtime-main.ac42828d.js.map",
+    "static/js/2.be9f6a08.chunk.js": "/caueamaral/reactjs-chuck-norris-api/static/js/2.be9f6a08.chunk.js",
+    "static/js/2.be9f6a08.chunk.js.map": "/caueamaral/reactjs-chuck-norris-api/static/js/2.be9f6a08.chunk.js.map",
+    "index.html": "/caueamaral/reactjs-chuck-norris-api/index.html",
+    "precache-manifest.89c1157976d98dde453a9c648253d171.js": "/caueamaral/reactjs-chuck-norris-api/precache-manifest.89c1157976d98dde453a9c648253d171.js",
+    "service-worker.js": "/caueamaral/reactjs-chuck-norris-api/service-worker.js",
+    "static/css/main.d11f75f3.chunk.css.map": "/caueamaral/reactjs-chuck-norris-api/static/css/main.d11f75f3.chunk.css.map",
+    "static/js/2.be9f6a08.chunk.js.LICENSE.txt": "/caueamaral/reactjs-chuck-norris-api/static/js/2.be9f6a08.chunk.js.LICENSE.txt",
+    "static/media/chuck-norris.jpg": "/caueamaral/reactjs-chuck-norris-api/static/media/chuck-norris.8411ca7a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac42828d.js",
+    "static/js/2.be9f6a08.chunk.js",
+    "static/css/main.d11f75f3.chunk.css",
+    "static/js/main.9adc2bfa.chunk.js"
+  ]
+}
